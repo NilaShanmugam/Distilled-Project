@@ -54,7 +54,7 @@ async searchAndfilterValidation(){
     var actualCount = actualText.toString();
     
     console.log(actualCount);
-    console.log(expectedCount);
+    console.log(splitOnSpace);
 
 
     // Asserting whethere the result count is properly generated

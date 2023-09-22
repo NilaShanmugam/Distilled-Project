@@ -26,4 +26,4 @@ jobs:
         cache: 'npm'
     - run: npm init playwright@latest
     - run: npx playwright install
-    - run: npx playwright test landing-page.spec.ts --headed
+    - run: npx playwright test

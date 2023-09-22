@@ -18,3 +18,7 @@ tests folder: This folder contains actual test scripts. It has landing-page.spec
 
 You can run the test by single command in VS Code terminal. Playwright runs in headless mode by default, so we specify the –headed to run on headed mode.
        npx playwright test landing-page.spec.ts --headed
+
+
+
+
